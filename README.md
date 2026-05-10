@@ -50,4 +50,4 @@ python app.py
 - Add support for **Word documents (.docx)** and **web URLs**
 
 ## 👨‍💻 Built By
-Adarsh Vaggu — AI Internship Assignment
+Adarsh Vaggu 
